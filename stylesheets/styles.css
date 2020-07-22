@@ -168,7 +168,7 @@ header ul {
   list-style:none;
   height:40px;
   padding:0;
-  background: #f4f4f4;
+  background: #a20026cc;
   border-radius:5px;
   border:1px solid #e0e0e0;
   width:270px;
@@ -190,7 +190,7 @@ header li:last-child a {
 header ul a {
   line-height:1;
   font-size:11px;
-  color:#999;
+  color:#fff;
   display:block;
   text-align:center;
   padding-top:6px;
@@ -198,11 +198,11 @@ header ul a {
 }
 
 header ul a:hover {
-  color:#999;
+  color:#fff;
 }
 
 header ul a:active {
-  background-color:#f0f0f0;
+  background-color:#a20026cc;
 }
 
 strong {
